@@ -1,0 +1,2 @@
+# Data
+This folder contains the pre-existing LPI data. The data reflects global biodiversity through populations (multiple units) counts for a multitude of species. Data source: [Living Planet Index Database](https://www.livingplanetindex.org/)
